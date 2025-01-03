@@ -1,5 +1,5 @@
 # Real-Time-Face-Recognition-System-using-MATLAB
-**Objective:  **
+**Objective:**
 The primary objective of this project is to develop a real-time face recognition 
 system using deep learning techniques, specifically utilizing the AlexNet 
 convolutional neural network (CNN). By fine-tuning the pre-trained AlexNet 
@@ -19,9 +19,8 @@ monitoring. Additionally, the system should be scalable and robust, capable of
 handling multiple faces simultaneously and performing classification with 
 minimal latency. 
 
-**
-Description of work: **
 
+**Description of work:**
 
 This project involves the development of a real-time face recognition system that 
 integrates computer vision and deep learning techniques to detect and classify 
