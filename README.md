@@ -19,7 +19,10 @@ monitoring. Additionally, the system should be scalable and robust, capable of
 handling multiple faces simultaneously and performing classification with 
 minimal latency. 
 
+
 Description of work: 
+
+
 This project involves the development of a real-time face recognition system that 
 integrates computer vision and deep learning techniques to detect and classify 
 faces using a webcam. The work is divided into several stages, each essential to 
